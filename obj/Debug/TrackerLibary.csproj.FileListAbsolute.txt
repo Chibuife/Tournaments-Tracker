@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\TrackersLibrary\obj\Debug\TrackerLibary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TrackersLibrary\obj\Debug\TrackerLibary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TrackersLibrary\bin\Debug\TrackersLibrary.dll
+C:\Users\User\source\repos\TrackersLibrary\bin\Debug\TrackersLibrary.pdb
+C:\Users\User\source\repos\TrackersLibrary\obj\Debug\TrackersLibrary.dll
+C:\Users\User\source\repos\TrackersLibrary\obj\Debug\TrackersLibrary.pdb
+C:\Users\User\source\repos\TrackersLibrary\bin\Debug\Dapper.dll
+C:\Users\User\source\repos\TrackersLibrary\bin\Debug\Dapper.xml
+C:\Users\User\source\repos\TrackersLibrary\obj\Debug\TrackerLibary.csproj.CopyComplete
